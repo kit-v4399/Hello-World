@@ -1,5 +1,4 @@
-ลองใช้ AI ในแอปโปรดของคุณโดยตรง … ใช้ Gemini เพื่อสร้างฉบับร่างและปรับแต่งเนื้อหา รวมถึงรับ Gemini Pro ที่มีสิทธิ์เข้าถึง AI รุ่นถัดไปของ Google ในราคา ฿750 ฿0 เป็นเวลา 1 เดือน
-# fundus_enhancement_app.py
+
 # Retinal fundus enhancement with paper-style visualization
 # Pipeline: TV decomposition -> Visual adaptation (Naka–Rushton) -> Weighted fusion
 
